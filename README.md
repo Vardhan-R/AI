@@ -1,2 +1,2 @@
 # AI
-Attempts at making ML models.
+[CONCEPTUAL] Attempts at making ML models.
